@@ -85,6 +85,7 @@ header nav .toggle-menu {
 header nav ul {
   display: flex;
 }
+@media (max-width: 767px) {
 
 
 /* header end */
