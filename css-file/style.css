@@ -30,6 +30,9 @@ ul {
   /* Medium */
   @media (min-width: 992px) {
     .container {
+      width: 970px;
+    }
+  }
 
   
 /* end golbal rules */
