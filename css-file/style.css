@@ -58,5 +58,6 @@ header {
   header .container::after {
     content: "";
     position: absolute;
+    height: 1px;
 
 /* header end */
