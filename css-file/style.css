@@ -44,5 +44,6 @@ ul {
 /* header start */
 header {
     position: absolute;
+    left: 0;
 
 /* header end */
