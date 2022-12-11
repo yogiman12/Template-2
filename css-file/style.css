@@ -89,7 +89,9 @@ header nav ul {
   header nav ul {
     display: none;
   }
+}
   header nav .toggle-menu:hover + ul {
+    display: flex;
 
 
 /* header end */
