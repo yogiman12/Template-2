@@ -22,5 +22,8 @@ ul {
     margin-right: auto;
   }
 /* Small */
+@media (min-width: 768px) {
+
+}
 
 /* end golbal rules */
