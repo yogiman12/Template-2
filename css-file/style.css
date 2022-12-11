@@ -45,5 +45,6 @@ ul {
 header {
     position: absolute;
     left: 0;
+    width: 100%;
 
 /* header end */
