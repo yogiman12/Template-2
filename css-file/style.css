@@ -99,6 +99,9 @@ header nav ul {
     background-color: rgb(0 0 0 / 50%);
   }
   header nav ul li a {
+    padding: 15px !important;
+  }
+}
 
 
 /* header end */
