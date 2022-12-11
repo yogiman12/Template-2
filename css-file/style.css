@@ -23,7 +23,9 @@ ul {
   }
 /* Small */
 @media (min-width: 768px) {
+    .container {
 
+    }
 }
 
 /* end golbal rules */
