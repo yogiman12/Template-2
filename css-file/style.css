@@ -43,5 +43,6 @@ ul {
 /* end golbal rules */
 /* header start */
 header {
+    position: absolute;
 
 /* header end */
