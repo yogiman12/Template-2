@@ -34,6 +34,7 @@ ul {
     }
   }
   /* Large */
+  @media (min-width: 1200px) {
 
   
 /* end golbal rules */
