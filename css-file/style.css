@@ -28,5 +28,7 @@ ul {
     }
 }
   /* Medium */
+  @media (min-width: 992px) {
+
   
 /* end golbal rules */
