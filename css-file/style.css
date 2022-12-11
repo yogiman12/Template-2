@@ -56,5 +56,6 @@ header {
     min-height: 97px;
   }
   header .container::after {
+    content: "";
 
 /* header end */
