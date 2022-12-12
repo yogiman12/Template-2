@@ -152,6 +152,7 @@ header nav .form i {
 }
 .landing .text {
   position: absolute;
+  left: 0;
 
 
 /* landing end */
