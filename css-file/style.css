@@ -163,6 +163,8 @@ header nav .form i {
   justify-content: flex-end;
 }
 .landing .text .content {
+  max-width: 500px;
+}
 
 
 /* landing end */
