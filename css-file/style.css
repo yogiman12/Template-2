@@ -165,6 +165,7 @@ header nav .form i {
 .landing .text .content {
   max-width: 500px;
 }
+@media (max-width: 767px) {
 
 
 /* landing end */
