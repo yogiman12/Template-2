@@ -202,6 +202,7 @@ header nav .form i {
 }
 .landing .bullets {
   position: absolute;
+  left: 50%;
 
 
 /* landing end */
