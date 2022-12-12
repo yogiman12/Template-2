@@ -63,6 +63,7 @@ ul {
 .main-heading h2::before {
   content: "";
   position: absolute;
+  left: 50%;
 
 
 /* header start */
