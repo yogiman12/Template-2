@@ -295,3 +295,5 @@ header nav .form i {
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin-bottom: 40px;
+  }
