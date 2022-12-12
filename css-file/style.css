@@ -184,6 +184,7 @@ header nav .form i {
   line-height: 2;
 }
 .landing .change-background {
+  position: absolute;
 
 
 /* landing end */
