@@ -293,3 +293,4 @@ header nav .form i {
 @media (max-width: 767px) {
   .services .srv-box {
     display: flex;
+    flex-direction: column;
