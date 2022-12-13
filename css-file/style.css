@@ -378,4 +378,6 @@ header nav .form i {
 }
 .portfolio .shuffle {
   display: flex;
+  justify-content: center;
+}
 
