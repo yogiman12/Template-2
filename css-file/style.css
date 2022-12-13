@@ -334,4 +334,5 @@ header nav .form i {
 .design .image,
 .design .text {
   position: relative;
+  z-index: 2;
 
