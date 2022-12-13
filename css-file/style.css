@@ -397,4 +397,6 @@ header nav .form i {
   position: relative;
 }
 .portfolio .imgs-container .box:hover .caption {
+  bottom: 0;
+}
 
