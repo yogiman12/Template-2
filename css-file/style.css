@@ -384,4 +384,5 @@ header nav .form i {
   padding: 10px;
 }
 .portfolio .shuffle li.active {
+  background-color: var(--main-color);
 
