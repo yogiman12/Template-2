@@ -500,6 +500,9 @@ header nav .form i {
 @media (max-width: 767px) {
   .about img {
     bottom: -60px;
+    margin-top: -60px;
+  }
+}
 
 
 
