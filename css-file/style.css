@@ -487,6 +487,7 @@ header nav .form i {
 /* End Video */
 /* Start About */
 .about {
+  padding-top: var(--section-padding);
 
 
 
