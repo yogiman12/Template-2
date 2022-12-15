@@ -603,6 +603,7 @@ header nav .form i {
   border-radius: 50%;
   margin-right: 50px;
 }
+@media (max-width: 767px) {
 
 
 
