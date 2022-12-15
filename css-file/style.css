@@ -532,6 +532,7 @@ header nav .form i {
   padding: 50px;
   background-color: var(--transparent-color);
 }
+@media (max-width: 767px) {
 
 
 
