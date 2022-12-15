@@ -605,6 +605,7 @@ header nav .form i {
 }
 @media (max-width: 767px) {
   .our-skills .testimonials .content {
+    flex-direction: column;
 
 
 
