@@ -655,6 +655,8 @@ header nav .form i {
   display: block;
   background-color: var(--main-color);
   height: 100%;
+  position: relative;
+}
 
 
 
