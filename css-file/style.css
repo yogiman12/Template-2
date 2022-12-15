@@ -572,6 +572,7 @@ header nav .form i {
   padding-bottom: var(--section-padding);
 }
 .our-skills .container {
+  display: flex;
 
 
 
