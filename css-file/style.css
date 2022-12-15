@@ -577,6 +577,7 @@ header nav .form i {
   flex-wrap: wrap;
 }
 @media (min-width: 992px) {
+  .our-skills .container > div {
 
 
 
