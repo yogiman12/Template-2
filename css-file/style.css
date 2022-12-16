@@ -825,6 +825,7 @@ header nav .form i {
 }
 .subscribe form i {
   position: absolute;
+  top: 50%;
 
 
 
