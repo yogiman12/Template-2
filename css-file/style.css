@@ -750,6 +750,8 @@ header nav .form i {
   right: -15px;
 }
 .pricing .plans .plan ul {
+  border-bottom: 1px solid var(--main-color);
+}
 
 
 
