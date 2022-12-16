@@ -889,6 +889,8 @@ header nav .form i {
 }
 .contact .content form .main-input:focus {
   outline: none;
+}
+.contact .content form textarea.main-input {
 
 
 
