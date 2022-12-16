@@ -792,6 +792,7 @@ header nav .form i {
 /* Start Subscribe */
 .subscribe {
   padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
 
 
 
