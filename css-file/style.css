@@ -824,6 +824,7 @@ header nav .form i {
   max-width: 100%;
 }
 .subscribe form i {
+  position: absolute;
 
 
 
