@@ -869,6 +869,7 @@ header nav .form i {
   padding-bottom: var(--section-padding);
 }
 .contact .content {
+  display: flex;
 
 
 
