@@ -891,6 +891,8 @@ header nav .form i {
   outline: none;
 }
 .contact .content form textarea.main-input {
+  height: 200px;
+}
 
 
 
