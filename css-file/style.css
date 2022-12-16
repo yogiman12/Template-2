@@ -935,6 +935,7 @@ header nav .form i {
   color: #777;
   line-height: 2;
 }
+@media (max-width: 767px) {
 
 
 
