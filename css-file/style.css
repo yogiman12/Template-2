@@ -681,6 +681,7 @@ header nav .form i {
 /* End Skills */
 /* Start Quote */
 .quote {
+  padding-top: var(--section-padding);
 
 
 
