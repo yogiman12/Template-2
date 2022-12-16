@@ -888,6 +888,7 @@ header nav .form i {
   width: 100%;
 }
 .contact .content form .main-input:focus {
+  outline: none;
 
 
 
