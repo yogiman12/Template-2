@@ -873,6 +873,10 @@ header nav .form i {
   justify-content: space-between;
 }
 @media (max-width: 767px) {
+  .contact .content {
+    flex-direction: column;
+  }
+}
 
 
 
