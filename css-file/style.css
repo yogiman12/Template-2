@@ -952,6 +952,7 @@ header nav .form i {
   text-align: center;
 }
 .footer::before {
+  content: "";
 
 
 
