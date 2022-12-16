@@ -872,6 +872,7 @@ header nav .form i {
   display: flex;
   justify-content: space-between;
 }
+@media (max-width: 767px) {
 
 
 
