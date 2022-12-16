@@ -753,6 +753,7 @@ header nav .form i {
   border-bottom: 1px solid var(--main-color);
 }
 .pricing .plans .plan ul li {
+  padding: 20px;
 
 
 
