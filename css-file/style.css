@@ -846,6 +846,8 @@ header nav .form i {
   border-left: none;
   text-transform: uppercase;
 }
+.subscribe form input[type="email"]:focus,
+.subscribe form input[type="submit"]:focus {
 
 
 
