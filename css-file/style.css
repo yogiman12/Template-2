@@ -831,6 +831,7 @@ header nav .form i {
 }
 .subscribe form input[type="email"] {
   border: 1px solid white;
+  border-right: none;
 
 
 
